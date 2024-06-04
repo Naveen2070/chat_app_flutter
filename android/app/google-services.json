@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256659894461",
+    "firebase_url": "https://grocery-list-flutter-50e9c-default-rtdb.firebaseio.com",
+    "project_id": "grocery-list-flutter-50e9c",
+    "storage_bucket": "grocery-list-flutter-50e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256659894461:android:ba29c2281b49b7d6a4c7d4",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjhPXmuqxvudHu4Ek0G3vMDnr0DcJ554"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
